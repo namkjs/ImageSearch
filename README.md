@@ -1,4 +1,6 @@
 # **Search Image Web App**
+## 🎥 Simple demo
+![Recording 2025-01-13 103909](https://github.com/user-attachments/assets/741d3b3b-7d2e-4f3a-8525-88583a781e00)
 
 ***📖 Mô Tả Dự Án***
 
@@ -49,4 +51,3 @@ python app.py
 
 ⚡ Tìm kiếm nhanh chóng nhờ FAISS Index.
 
-![Recording 2025-01-13 103909](https://github.com/user-attachments/assets/741d3b3b-7d2e-4f3a-8525-88583a781e00)
