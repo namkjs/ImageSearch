@@ -3,6 +3,20 @@
 ***📖 Mô Tả Dự Án***
 
 Ứng dụng web giúp tìm kiếm hình ảnh dựa trên mô tả văn bản hoặc hình ảnh đầu vào. Ứng dụng sử dụng mô hình CLIP để mã hóa dữ liệu và FAISS để tìm kiếm nhanh chóng.
+## 👾 Tech Stack
+<details>
+  <summary>CNN</summary>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://flask.palletsprojects.com/en/stable/">Flask</a></li>
+    <li><a href="https://github.com/facebookresearch/faiss">FAISS</a></li>
+    <li><a href="https://openai.com/index/clip/">FAISS</a></li>
+
+  </ul>
+</details>
 
 ***📂 Cấu Trúc Thư Mục***
 
