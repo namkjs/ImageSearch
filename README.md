@@ -1,10 +1,10 @@
-*Search Image Web App*
+# **Search Image Web App**
 
-📖 Mô Tả Dự Án
+***📖 Mô Tả Dự Án***
 
 Ứng dụng web giúp tìm kiếm hình ảnh dựa trên mô tả văn bản hoặc hình ảnh đầu vào. Ứng dụng sử dụng mô hình CLIP để mã hóa dữ liệu và FAISS để tìm kiếm nhanh chóng.
 
-📂 Cấu Trúc Thư Mục
+***📂 Cấu Trúc Thư Mục***
 
 SEARCHIMAGE/
 ├── models/               # Chứa các mô hình AI
@@ -24,7 +24,7 @@ SEARCHIMAGE/
 ├── vercel.json          # Cấu hình deploy với Vercel
 └── ViT.ipynb            # Tải và tạo mô hình trước khi chạy server
 
-⚙️ Cài Đặt
+***⚙️ Cài Đặt***
 
 1. Clone Dự Án
 
@@ -45,7 +45,7 @@ python app.py
 
 🔗 Truy cập http://127.0.0.1:5000 trên trình duyệt để sử dụng ứng dụng.
 
-🚀 Tính Năng
+***🚀 Tính Năng***
 
 🔍 Tìm kiếm hình ảnh bằng văn bản (hỗ trợ tiếng Việt).
 
