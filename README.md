@@ -6,23 +6,8 @@
 
 ***📂 Cấu Trúc Thư Mục***
 
-SEARCHIMAGE/
-├── models/               # Chứa các mô hình AI
-├── saved_model/          # Mô hình đã tải (tự động lưu sau khi chạy)
-├── static/               # File tĩnh (JS, CSS)
-│   ├── main.js
-│   └── style.css
-├── templates/           # Giao diện HTML
-│   ├── index.html       # Trang chủ
-│   └── results.html     # Hiển thị kết quả tìm kiếm
-├── .gitignore           # File loại trừ khi push lên GitHub
-├── app.py               # Chạy Flask server
-├── image_files.txt      # Lưu danh sách file ảnh
-├── index.faiss          # FAISS index để tìm kiếm
-├── README.md            # Hướng dẫn sử dụng
-├── requirements.txt     # Thư viện cần cài đặt
-├── vercel.json          # Cấu hình deploy với Vercel
-└── ViT.ipynb            # Tải và tạo mô hình trước khi chạy server
+![image](https://github.com/user-attachments/assets/724ae002-9630-440d-9e00-870d23b28d1a)
+
 
 ***⚙️ Cài Đặt***
 
